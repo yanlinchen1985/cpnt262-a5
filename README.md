@@ -10,10 +10,7 @@ by Lynn Chen  Nov,13,2020
 
 - Heroku URL: https://cpnt262a5.herokuapp.com/api/v0/products shows "all the products",
               https://cpnt262a5.herokuapp.com/api/v0/products/1 shows "Id1 product",
-              https://cpnt262a5.herokuapp.com shows "404: File Not Found".
-
-    
-              
+              https://cpnt262a5.herokuapp.com/api/v0/products/15 shows "Could not find product".          
 
 - GH repo: https://github.com/yanlinchen1985/cpnt262-a5
 
